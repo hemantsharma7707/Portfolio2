@@ -48,7 +48,7 @@ I am constantly learning and improving my skills to create clean UI designs and 
 
 📧 Email: hemantjvd@gmaiul.com
 
-💼 LinkedIn: linkedin.com/in/hemant-sharma-2361bb337
+💼 LinkedIn: https://www.linkedin.com/in/hemant-sharma-2361bb337/
 
 💻 GitHub: https://github.com/hemantsharma7707
 
